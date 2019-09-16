@@ -1,0 +1,65 @@
+@font-face{
+	font-family:quickSand;
+	src: url(Font/Quicksand-Light.otf);
+
+}
+
+body{
+	background-color:#cfccc9;
+	font-family:quickSand;
+	margin:0px;
+
+}
+header{
+	background-color:#FFFFFF;
+	width:100%;
+	margin:0px;
+	padding:5px;
+}
+nav{
+	background-color:#e4f663;
+	width:100%;
+	margin:0px;
+	padding:5px;
+}
+nav ul{
+	list-style-type:none;
+}
+nav ul li{
+	display:inline;
+	margin-left:340px;
+}
+nav a{
+	text-decoration:none;
+}
+nav a:hover{
+	color:#22221f;
+	font-size:15px;
+	font-weight:bold;
+}
+
+img{
+	width:290px;
+	height:250px;
+	border-radius:10px;
+}
+
+#article1{
+	padding:50px;
+	margin-left:100px;
+}
+#article2{
+	padding:50px;
+	margin-left:100px;
+}
+#article3{
+	padding:50px;
+	margin-left:100px;
+}
+#article4{
+	padding:50px;
+	margin-left:100px;
+}
+p{
+	text-align:justify;
+}

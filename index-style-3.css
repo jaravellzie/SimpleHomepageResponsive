@@ -1,0 +1,13 @@
+body{
+}
+
+nav ul li{
+	display:inline;
+	margin-left:45px;
+}
+
+img{
+	width:290px;
+	height:250px;
+	padding:70px;
+}
